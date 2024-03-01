@@ -1,0 +1,3 @@
+pip install python-telegram-bot
+pip install py-solc
+pip install py-solc-x==1.1.1
